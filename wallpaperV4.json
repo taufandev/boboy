@@ -5,15 +5,15 @@
       "select_backup_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "",
-      "admob_nativeid": "",
-      "admob_openid": "",
+      "admob_interid": "ca-app-pub-8166782938640486/1197683679",
+      "admob_nativeid": "ca-app-pub-8166782938640486/2901647587",
+      "admob_openid": "ca-app-pub-8166782938640486/7311951292",
       "interval": 10,
       "startappid": "",
-      "fan_inter": "",
-      "fan_banner_native": "",
-      "mopub_banner": "",
-      "mopub_inter": "",
+      "fan_inter": "1221525604881647_1326682917699248",
+      "fan_banner_native": "1221525604881647_1326683904365816",
+      "mopub_banner": "4660a8ca493d4769864c2a3f9f9b6fab",
+      "mopub_inter": "b2d56bc700aa466b925370482962f7b0",
       "applovin_banner": "",
       "applovin_inter": "",
       "packagename": "com.thegoodtrushdev.boboyhero"
@@ -25,24 +25,7 @@
   ],
 
   "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
-    }
+ 
   ],
 
   "Data":
